@@ -39,5 +39,7 @@ npm run dev
 3. "Jugador Gana" o "Computadora Gana" ; para comenzar nueva partida sería pulsar "Nuevo Juego"
 
 🙌 Autor
+<br>
 Manuel de la Cruz Bazaga - h20solida
+<br>
 Valladolid, España

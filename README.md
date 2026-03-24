@@ -15,9 +15,13 @@ Pasos para ejecutar proyecto:
 ## 🛠 **Instalación Local**
 
 git clone https://github.com/h20solida/js-vite-blackjack-main.git
+<br>
 cd js-vite-blackjack-main
+<br>
 npm install
+<br>
 npm run dev
+<br>
 
 # 🎰 **Blackjack Vite**
 
